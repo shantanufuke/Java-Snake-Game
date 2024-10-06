@@ -11,8 +11,8 @@ This is a simple Snake Game built using Java's `javax.swing` library. The game i
 
 ## Demo
 
-<img width="488" alt="Screenshot 2024-10-06 at 6 27 43 PM" src="https://github.com/user-attachments/assets/85d63f3c-8dd1-49fe-a7a7-2ff191e62dbd">
-<img width="488" alt="Screenshot 2024-10-06 at 6 26 26 PM" src="https://github.com/user-attachments/assets/a1d5cfb3-266d-48f5-b33d-9866113ddaf4">
+<img width="488" height="450" alt="Screenshot 2024-10-06 at 6 27 43 PM" src="https://github.com/user-attachments/assets/85d63f3c-8dd1-49fe-a7a7-2ff191e62dbd">
+<img width="488" height="450" alt="Screenshot 2024-10-06 at 6 26 26 PM" src="https://github.com/user-attachments/assets/a1d5cfb3-266d-48f5-b33d-9866113ddaf4">
 
 
 
